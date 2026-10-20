@@ -1,0 +1,32 @@
+{
+  "name": "murat-taskin-okul-takip-sistemi",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Öğretmen Murat TAŞKIN için öğrenci takip, e-Okul & not linkleri, Google Drive dosya ve yıllık plan arşivi ile TEKNOFEST ve TÜBİTAK proje üretim platformu.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@vitejs/plugin-react": "^6.1.1",
+    "docx": "^9.13.0",
+    "file-saver": "^2.0.5",
+    "lucide-react": "^0.546.0",
+    "motion": "^12.23.24",
+    "react": "^19.0.1",
+    "react-dom": "^19.0.1",
+    "vite": "^8.3.0"
+  },
+  "devDependencies": {
+    "@types/file-saver": "^2.0.7",
+    "@types/node": "^22.14.0",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^7.0.2"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Murat TAŞKIN Okul Takip Sistemi",
+  "description": "Öğretmen Murat TAŞKIN için öğrenci takip, e-Okul & not linkleri, Google Drive dosya ve yıllık plan arşivi ile TEKNOFEST, TÜBİTAK ve eTwinning proje üretim platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
